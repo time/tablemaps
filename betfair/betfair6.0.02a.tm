@@ -2,7 +2,7 @@
 
 // OpenScrape 1.1.9
 
-// 2009-01-10 13:12:08
+// 2009-01-15 13:26:57
 // 32 bits per pixel
 
 //
@@ -100,6 +100,11 @@ r$u2active        477 274 478 275        0   -1 C
 r$u3active        243 350 244 351        0   -1 C 
 r$u4active          5 274   6 275        0   -1 C 
 r$u5active          5 162   6 163        0   -1 C 
+r$i1label         655 203 710 211   ffffff    0 T0
+r$i1label0        655 209 710 219   ffffff    0 T0
+r$i0label         578 210 633 218   ffffff    0 T0
+r$i3label0        732 202 787 211   ffffff    0 T0
+r$i3label         732 197 787 205   ffffff    0 T0
 
 //
 // fonts
