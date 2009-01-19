@@ -93,16 +93,13 @@ r$p8bet            77  96 145 104   ffffff    0 T0
 r$p1bet           425 174 493 182   ffffff    0 T0
 r$p5bet           144 300 212 308   ffffff    0 T0
 r$c0pot0          253 268 321 276   ffffff    0 T0
-r$i0button        576 249 632 292        0    0 N 
-r$i0label         587 266 619 276   ffffff    0 T0
-r$i1button        655 249 711 292        0    0 N 
-r$i1label         660 259 704 275   ffffff    0 T0
-r$i2button        734 249 790 292        0    0 N 
-r$i2label         742 253 780 269   ffffff    0 T0
+r$i0button        578 192 634 235        0    0 N 
+r$i1button        655 192 711 235        0    0 N 
+r$i2button        732 192 788 235        0    0 N 
 r$c0pot1          366 268 434 276   ffffff    0 T0
-r$i0state         576 249 577 250   c08e3a    0 C 
-r$i1state         655 249 656 250   c08e3a    0 C 
-r$i2state         734 249 735 250   c08e3a    0 C 
+r$i0state         579 193 580 194   c08e3a    0 C 
+r$i1state         656 193 657 194   c08e3a    0 C 
+r$i2state         733 193 734 194   c08e3a    0 C 
 r$c0limits          9  19 201  27   d0fbfe    0 T0
 r$c0handnumber0   496   4 565  11   d0fbfe    0 T0
 r$p0seated        243  87 244  88        0   -1 C 
@@ -115,9 +112,6 @@ r$p6seated          5 309   6 310        0   -1 C
 r$p7seated          5 218   6 219        0   -1 C 
 r$p8seated          5 127   6 128        0   -1 C 
 r$c0pot2          140 268 208 276   ffffff    0 T0
-r$i3edit          641 329 726 341        0    0 N 
-r$i3state         639 327 640 328   ffffff    0 C 
-r$i3label         639 342 640 343   ffffff    0 C 
 r$p0active        290 115 330 125        0    0 H0
 r$p1active        524 155 564 165        0    0 H0
 r$p2active        524 246 564 256        0    0 H0
@@ -136,6 +130,11 @@ r$u5active        158 350 159 351        0   -1 C
 r$u6active          5 309   6 310        0   -1 C 
 r$u7active          5 218   6 219        0   -1 C 
 r$u8active          5 127   6 128        0   -1 C 
+r$i1label         655 203 710 211   ffffff    0 T0
+r$i1label0        655 209 710 219   ffffff    0 T0
+r$i0label         578 210 633 218   ffffff    0 T0
+r$i2label0        732 202 787 211   ffffff    0 T0
+r$i2label         732 197 787 205   ffffff    0 T0
 
 //
 // fonts
