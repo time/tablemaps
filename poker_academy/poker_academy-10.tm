@@ -2,7 +2,7 @@
 
 // OpenScrape 1.1.9
 
-// 2009-01-25 00:07:56
+// 2009-01-25 00:09:23
 // 32 bits per pixel
 
 //
@@ -107,7 +107,6 @@ r$c0cardface1     290 210 302 242   ffffff    0 H2
 r$c0cardface0     247 210 259 240 ff8cbeff    0 H2
 r$c0istournament  669   3 765  18 ff8cbeff    0 T3
 r$c0limits        607  27 769  42 ff8cbeff    0 T3
-r$i1label         354 506 415 520   1b1b5d    0 H1
 r$i3state         642 503 643 504   414446    0 C 
 r$p6balance        25 414 114 428 ff00ff00    0 T0
 r$p7balance        30  83 119  97 ff00ff00    0 T0
